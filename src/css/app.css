@@ -1,0 +1,31 @@
+html,body{
+    background-color: #5f06e4;
+}
+#app{
+    min-height: 100vh;
+    width: 100%;
+  color: #fff;
+  margin-top: 150px;
+}
+.header{
+    padding: 40px 0;
+}
+.header h2{
+    font-size: 45px;
+}
+.body{
+text-align: center;
+display: flex;
+justify-content: space-between;
+}
+.body img{
+    width:  450px;
+    height: 450px;
+    object-fit: cover;
+    object-position: center;
+    transition: all 1s;
+    border-radius: 15px;
+}
+.body img.selected{
+   transform: scale(1.1);
+}
