@@ -53,8 +53,8 @@ function App() {
         </h2>
       </div>
       <div className="body">
-        <img id="leftİmage" className="imgSelect" src="https://www.cafemarkt.com/gastrocups-casablanca-bardak-250-ml-polikarbonat-seffaf-kirilmaz-su-ve-mesrubat-bardaklari-gastrocups-32693-18-B.jpg" alt="" />
-        <img id="rightİmage" className="imgSelect" src="https://www.cafemarkt.com/gastrocups-casablanca-bardak-250-ml-polikarbonat-seffaf-kirilmaz-su-ve-mesrubat-bardaklari-gastrocups-32693-18-B.jpg" alt="" />
+        <img id="leftİmage" className="imgSelect" src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDYwF_LeUGazga-PoYLwiglSN9W6IHioIflYZX_way0QvYm9vagW7vI3_o8gGN1hhBkRR6lmfM81eK1djY8Z8ziU7a-nno-8a_LSYz_nFIzbkQw7NnOpbH&usqp=CAE" alt="" />
+        <img id="rightİmage" className="imgSelect" src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3BGTZ4YG_CsZyBQ6XY0S8DZu4_ZekVLGVaGsJd7OzrL0dd7Jetw8b2RXHXjHsZZMKYHTCxt0_Rn1zzFy4DyforORy6bA84Vws_ZNFUmCuxcUVDClosz-D&usqp=CAE" alt="" />
       </div>
     </div>
   );
