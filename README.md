@@ -14,6 +14,8 @@ To **run web server**
 ```
 python3 backend/app.py
 ```
+
+To **run front end** 
 ```
 $ cd ugur-ozdemir-demo
 $ yarn start
